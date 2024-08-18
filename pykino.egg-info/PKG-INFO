@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: pykino
+Version: 0.1.0
+Summary: pykino: use mgcv in python
+Home-page: https://github.com/Nshuangpapa/pykino
+Author: Yifan Wang
+Author-email: yifanwangzippo64@outlook.com
+License: MIT
+Keywords: statistics,GAM,regression,analysis
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+License-File: LICENSE
+Requires-Dist: pandas>=1.1.0
+Requires-Dist: numpy>=1.20
+Requires-Dist: rpy2>=3.5.3
+Requires-Dist: seaborn>=0.11.0
+Requires-Dist: matplotlib>=3.0
+Requires-Dist: patsy>=0.5.1
+Requires-Dist: joblib>=0.14
+Requires-Dist: scipy>=1.4.0
+Requires-Dist: scikit-learn>=1.0
+
+pykino
